@@ -1,3 +1,10 @@
+" Set search to be case insensitive...
+set ignorecase
+" ...unless it includes an upper case letter
+set smartcase
+
+syntax on
+
 " size of a hard tabstop
 set tabstop=4
 
