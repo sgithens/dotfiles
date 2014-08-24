@@ -1,3 +1,6 @@
+" Column and line numbers
+set ruler
+
 " Set search to be case insensitive...
 set ignorecase
 " ...unless it includes an upper case letter
