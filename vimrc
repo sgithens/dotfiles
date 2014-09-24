@@ -1,3 +1,10 @@
+set nocompatible
+filetype off
+
+execute pathogen#infect()
+
+filetype plugin indent on
+
 " Column and line numbers
 set ruler
 
